@@ -29,7 +29,7 @@ graph TD
     UI[Streamlit UI Interface]:::ui --> CREW[CrewAI Orchestrator]:::crew
 
     subgraph Crew[Sequential CrewAI Pipeline]
-        方向 TB
+        direction TB
         A1(1. SEO Research Agent)
         A2(2. Content Strategist Agent)
         A3(3. Expert Writer Agent)

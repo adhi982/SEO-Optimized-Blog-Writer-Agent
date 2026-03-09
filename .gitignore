@@ -13,7 +13,7 @@ __pycache__/
 *$py.class
 
 # Pytest / Coverage
-.pytest_cache/
+.pytest_cache/S
 .coverage
 htmlcov/
 
@@ -21,7 +21,6 @@ htmlcov/
 .vscode/
 
 # Project Specific
-output/
 *.log
 
 # Streamlit
